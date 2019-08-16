@@ -1,4 +1,4 @@
-namespace Sişarpdeneme
+namespace CSharpExamples
 {
     class Test
     {
