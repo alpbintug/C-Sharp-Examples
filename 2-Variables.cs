@@ -16,6 +16,20 @@ namespace CSharpExamples
             byte _byte = 0x10;
             object _object = _float;
             float _float2 = (float)_object;
+            
+            
+            /*Output:
+            This is a string
+            a
+            15,235
+            1,42363463
+            This is a variable
+            b
+            16,235
+            2,42363463
+            16
+            15,235
+            15,235*/
         }
     }
 }
